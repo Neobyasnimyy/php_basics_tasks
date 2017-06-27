@@ -1,7 +1,8 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Andrey
- * Date: 27.06.2017
- * Time: 4:34
- */
+$a = '78';
+$b = 78;
+if ($a == $b){
+    print "$a равно $b";
+}else{
+    print "$a не равно $b";
+}
